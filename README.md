@@ -22,14 +22,8 @@ Local Machine:
 ```bash
   Ubuntu 22.04.1 LTS
   4 vCore, 4 GiB Memory, 32 GiB Storage
-```
-
-AWS EC2:
-
-```bash
   Amazon Linux 2 Kernel 5.10
   t2 Family, 1 vCore, 1 GiB Memory
-```
 
 ### Prerequisites
 
@@ -70,7 +64,7 @@ Here are some common errors and troubleshooting tips for this project:
 - Data Storage Error: If you encounter an error while storing the data in CassandraDB, ensure that the required tables have been created and that the data is being stored in the correct format.
 - Data Query Error: If you encounter an error while querying the data stored in CassandraDB, ensure that the SQL query is correct and that the required tables exist.
 
-For more information, refer to the log files or contact the author at contact.kishlayjeet@gmail.com.
+For more information, refer to the log files or contact the author at contact.miremezo@davidson.edu
 
 ## Future Enhancements
 
